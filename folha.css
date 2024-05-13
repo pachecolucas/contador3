@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background: #DDD;
+}
+section {
+    text-align: center;
+    box-shadow: 0 0 10px black;
+    border-radius: 10px;
+    padding: 20px;
+    background: #EEE;
+}
+h2 {
+    font-size: 80px;
+}
